@@ -63,6 +63,7 @@ function App() {
           <span>С Новым Годом!</span>
         )}
       </div>
+      
       <a href="https://www.booking.com" className="button">
         Принять решение
       </a>
